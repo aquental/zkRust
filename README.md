@@ -3,7 +3,9 @@ Zero Knowledge in Rust
 
 ### April 2024
 
-[Chaun-Pedersen Protocol](https://crypto.stackexchange.com/questions/99262/chaum-pedersen-protocol)
+> [Chaun-Pedersen Protocol](https://crypto.stackexchange.com/questions/99262/chaum-pedersen-protocol)
+> 
+> The Chaum-Pedersen Protocol allows one to prove the equality of a secret value **x** given a set of two equations that hide the value **x** but can be publicly shared. It's an interactive Zero-Knowledge Proof protocol where a _prover_ wants to convince a _verifier_ that the aforementioned condition of equality holds true.
 
 > Intro to Cryptography
 > 
