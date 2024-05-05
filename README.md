@@ -14,3 +14,7 @@ Zero Knowledge in Rust
 > [Bitcoin Rust](https://github.com/gagiuntoli/bitcoin_rust)
 > 
 > Based on [Programming Bitcoin](https://www.oreilly.com/library/view/programming-bitcoin/9781492031482/) by Jimmy Song.
+
+> Additional Diffie-Hellman Groups for Use with IETF Standards
+> 
+> [reference](https://www.rfc-editor.org/rfc/rfc5114#page-15)
