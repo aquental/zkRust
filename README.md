@@ -73,6 +73,10 @@ Zero Knowledge in Rust
 > 19 - [Symmetry Groups of Triangles (Abstract Algebra)](https://youtu.be/DeCcqioogLY?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 >
 > 20 - [Matrix Groups (Abstract Algebra)](https://youtu.be/AJTRwhSZJWw?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> 21 - [Direct Products of Groups (Abstract Algebra)](https://youtu.be/rXLz8TdckWo?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> 22 - [Simple Groups - Abstract Algebra](https://youtu.be/jhVMBXl5jTA?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 > </details>
 >
 > [Modern Zero Knowledge Cryptography - MIT IAP 2023](https://zkiap.com/)
