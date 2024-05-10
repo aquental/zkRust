@@ -22,3 +22,5 @@ Zero Knowledge in Rust
 > Moon math
 >
 > [Study Group](https://zkhack.dev/zk-study-group-moonmath-manual/)
+>
+> [The RareSkills Book of Zero Knowledge](https://www.rareskills.io/zk-book)
