@@ -18,3 +18,7 @@ Zero Knowledge in Rust
 > Additional Diffie-Hellman Groups for Use with IETF Standards
 > 
 > [reference](https://www.rfc-editor.org/rfc/rfc5114#page-15)
+
+> Moon math
+>
+> [Study Group](https://zkhack.dev/zk-study-group-moonmath-manual/)
