@@ -29,7 +29,32 @@ Zero Knowledge in Rust
 >
 > [MIT 6.875 (Cryptography), Spring 2018](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
 >
-> [Abstract Algebra - Socratica](https://bookstore.ams.org/stml-83)
+> <details>
+> <summary>Abstract Algebra - Socratica</summary>
+  
+> [list : Abstract Algebra - Socratica](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> 1 - [What is Abstract Algebra? (Modern Algebra)](https://youtu.be/IP7nW_hKB7I?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> 2 - [Group Definition (expanded) - Abstract Algebra](https://youtu.be/g7L_r6zw4-c?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> 3 - [Abstract Algebra: The definition of a Group](https://youtu.be/QudbrUcVPxk?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> 4 - [Abstract Algebra: Motivation for the definition of a group](https://youtu.be/yHq_yzYZV6U?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> 5 - [Abstract Algebra: The definition of a Subgroup](https://youtu.be/TJAQNlGvfjE?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> 6 - [Group Multiplication Tables | Cayley Tables (Abstract Algebra)](https://youtu.be/BwHspSCXFNM?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> 7 - [Cosets and Lagrange’s Theorem - The Size of Subgroups (Abstract Algebra)](https://youtu.be/TCcSZEL_3CQ?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> 8 - [Normal Subgroups and Quotient Groups (aka Factor Groups) - Abstract Algebra](https://youtu.be/vYKdh5oQ4Zw?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> 9 - [Cyclic Groups (Abstract Algebra)](https://youtu.be/8A84sA1YuPw?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> 10 - [Abstract Algebra: Group or Not Group? (Integer edition)](https://youtu.be/qvx9TnK85bw?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+> 
+> </details>
 >
 > [Modern Zero Knowledge Cryptography - MIT IAP 2023](https://zkiap.com/)
 >
