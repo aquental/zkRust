@@ -31,8 +31,8 @@ Zero Knowledge in Rust
 >
 > <details>
 > <summary>Abstract Algebra - Socratica</summary>
-  
-> [list : Abstract Algebra - Socratica](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> list [Abstract Algebra - Socratica](https://www.youtube.com/playlist?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 >
 > 1 - [What is Abstract Algebra? (Modern Algebra)](https://youtu.be/IP7nW_hKB7I?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 >
