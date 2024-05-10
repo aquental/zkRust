@@ -54,6 +54,19 @@ Zero Knowledge in Rust
 >
 > 10 - [Abstract Algebra: Group or Not Group? (Integer edition)](https://youtu.be/qvx9TnK85bw?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 > 
+> 11 - [Group Homomorphisms - Abstract Algebra](https://youtu.be/XPF5fe1WdKY?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> 12 - [Homomorphisms (Abstract Algebra)](https://youtu.be/cYzp5IWqCsg?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> 13 - [Isomorphisms (Abstract Algebra)](https://youtu.be/BAmWgVjSosY?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>  
+> 14 - [The Kernel of a Group Homomorphism – Abstract Algebra](https://youtu.be/TngePpJ_x-I?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> 15 - [The Order of an Element (Abstract Algebra)](https://youtu.be/OWTKYLAEYvY?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> 16 - [Symmetric Groups (Abstract Algebra)](https://youtu.be/3aNeCWRjh8I?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> 17 - [Cycle Notation of Permutations - Abstract Algebra](https://youtu.be/MpKG6FmcIHk?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 > </details>
 >
 > [Modern Zero Knowledge Cryptography - MIT IAP 2023](https://zkiap.com/)
