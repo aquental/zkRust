@@ -32,3 +32,5 @@ Zero Knowledge in Rust
 > [Abstract Algebra - Socratica](https://bookstore.ams.org/stml-83)
 >
 > [Modern Zero Knowledge Cryptography - MIT IAP 2023](https://zkiap.com/)
+>
+> > [Foundations of Cryptography - MIT 6.875](https://mit6875.github.io/HANDOUTS/numbertheory.pdf)
