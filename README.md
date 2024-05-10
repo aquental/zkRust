@@ -67,6 +67,12 @@ Zero Knowledge in Rust
 > 16 - [Symmetric Groups (Abstract Algebra)](https://youtu.be/3aNeCWRjh8I?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 >
 > 17 - [Cycle Notation of Permutations - Abstract Algebra](https://youtu.be/MpKG6FmcIHk?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> 18 - [Dihedral Group (Abstract Algebra)](https://youtu.be/rPh7EQPSaO4?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> 19 - [Symmetry Groups of Triangles (Abstract Algebra)](https://youtu.be/DeCcqioogLY?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> 20 - [Matrix Groups (Abstract Algebra)](https://youtu.be/AJTRwhSZJWw?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 > </details>
 >
 > [Modern Zero Knowledge Cryptography - MIT IAP 2023](https://zkiap.com/)
