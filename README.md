@@ -30,3 +30,5 @@ Zero Knowledge in Rust
 > [MIT 6.875 (Cryptography), Spring 2018](https://www.youtube.com/playlist?list=PL6ogFv-ieghe8MOIcpD6UDtdK-UMHG8oH)
 >
 > [Abstract Algebra - Socratica](https://bookstore.ams.org/stml-83)
+>
+> [Modern Zero Knowledge Cryptography - MIT IAP 2023](https://zkiap.com/)
