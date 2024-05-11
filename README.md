@@ -84,21 +84,21 @@ Zero Knowledge in Rust
 >
 > 25 - [Ring Examples (Abstract Algebra)](https://youtu.be/_RTHvweHlhE?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 >
-> 26 - []
+> 26 - [Units in a Ring (Abstract Algebra)](https://youtu.be/HHpODrFZ4YQ?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 >
-> 27 - []
+> 27 - [Integral Domains (Abstract Algebra)](https://youtu.be/87QXdOxeVmU?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 >
-> 28 - []
+> 28 - [Ideals in Ring Theory (Abstract Algebra)](https://youtu.be/F0wA0xLZSQ8?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 >
-> 29 - []
+> 29 - [Field Definition (expanded) - Abstract Algebra](https://youtu.be/KCSZ4QhOw0I?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 >
-> 30 - []
+> 30 - [Abstract Algebra: The definition of a Field](https://youtu.be/bjp4nF8TW7s?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 >
-> 31 - []
+> 31 - [Field Examples - Infinite Fields (Abstract Algebra)](https://youtu.be/9hmr_Fjot_8?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 >
-> 32 - []
+> 32 - [What is a Vector Space? (Abstract Algebra)](https://youtu.be/ozwodzD5bJM?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 >
-> 33 - []
+> 33 - [What is a Module? (Abstract Algebra)](https://youtu.be/IvukAijXgLE?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 > </details>
 >
 > [Modern Zero Knowledge Cryptography - MIT IAP 2023](https://zkiap.com/)
