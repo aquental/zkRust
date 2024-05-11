@@ -77,6 +77,28 @@ Zero Knowledge in Rust
 > 21 - [Direct Products of Groups (Abstract Algebra)](https://youtu.be/rXLz8TdckWo?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
 >
 > 22 - [Simple Groups - Abstract Algebra](https://youtu.be/jhVMBXl5jTA?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> 23 - [Abstract Algebra: The definition of a Ring](https://youtu.be/6RC70C9FNXI?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> 24 - [Ring Definition (expanded) - Abstract Algebra](https://youtu.be/j_f7O-4Rb9U?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> 25 - [Ring Examples (Abstract Algebra)](https://youtu.be/_RTHvweHlhE?list=PLi01XoE8jYoi3SgnnGorR_XOW3IcK-TP6)
+>
+> 26 - []
+>
+> 27 - []
+>
+> 28 - []
+>
+> 29 - []
+>
+> 30 - []
+>
+> 31 - []
+>
+> 32 - []
+>
+> 33 - []
 > </details>
 >
 > [Modern Zero Knowledge Cryptography - MIT IAP 2023](https://zkiap.com/)
