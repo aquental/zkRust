@@ -106,3 +106,5 @@ Zero Knowledge in Rust
 > > [Foundations of Cryptography - MIT 6.875](https://mit6875.github.io/HANDOUTS/numbertheory.pdf)
 > >
 > > [Zero Knowledge Proofs - MOOC](https://zk-learning.org)
+> >
+> > [Awesome zero knowledge proofs (zkp) - Matter-Labs](https://github.com/matter-labs/awesome-zero-knowledge-proofs)
